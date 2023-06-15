@@ -1,0 +1,31 @@
+Prezados, conforme conversamos em sala de aula, a nota final será composta por uma prova valendo 5 pontos e um projeto avaliativo valendo mais 5 pontos. *fiz um pequeno ajuste na pontuação.
+
+Segue a descrição do projeto final:
+
+Objetivo: Analisar a existência de relacionamentos ternários (1:1:N) e fixar representação
+ 
+Contexto:
+            Em uma empresa, estagiários trabalham em projetos sob a supervisão de instrutores, sob as seguintes condições:
+ü  Um estagiário em um projeto pode ter apenas um instrutor
+ü  Um instrutor em um projeto pode supervisionar vários estagiários
+ü  Um instrutor não pode supervisionar um mesmo estagiário em mais de um projeto
+ 
+Nesse contexto, as seguintes informações são necessárias:
+1.     Qual a matrícula e nome de cada estagiário?
+2.     A partir de que data cada estagiário foi contratado?
+3.     Qual o nome de cada projeto da empresa e data de início do mesmo?
+4.     Qual é a matrícula, nome e data de admissão de cada instrutor?
+5.     Dada a matrícula de um instrutor, qual o nome dos estagiários que ele supervisiona e em qual projeto ele supervisiona cada estagiário?
+6.     A partir da informação anterior, a partir de qual data que esta supervisão se deu?
+7.     Dada a matrícula de um estagiário, em quais projetos ele é supervisionado?
+ 
+ü  Sob esse cenário, construa o MER que apresente os dados e as relações compatíveis para atender às informações descritas;
+ 
+Importante:
+Anexe um link ou um pequeno vídeo explicando o desenvolvimento da atividade.
+
+Rubricas:
+Entrega no prazo (condição para lançamento da nota)
+Originalidade 
+Completeza
+Vídeo demonstrando o domínio da atividade entregue
